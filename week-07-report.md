@@ -4,6 +4,8 @@
 - **LLM:** llama-3.3-70b-versatile via Groq
 - **Embeddings:** sentence-transformers/distilbert-base via HuggingFace Inference API
 - **Vector Store:** In-Memory Vector Store
+- **Chat Link:**
+- https://cloud.flowiseai.com/chatbot/b6a05771-d7ce-41b6-acb3-341df48933e3
 - **Documents loaded:**
   - mitre-exfiltration.txt (4 techniques)
   - mitre-resource-development.txt (3 techniques)
